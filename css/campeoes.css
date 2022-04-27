@@ -1,0 +1,11 @@
+nav{
+    padding-left: 1vh;
+    padding-right: 1vh;
+    background-color: purple;
+}
+.btn-group button{
+    background-color: aqua;
+}
+.btn-group button:hover{
+    background-color: aqua;
+}
