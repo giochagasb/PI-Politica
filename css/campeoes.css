@@ -9,3 +9,6 @@ nav{
 .btn-group button:hover{
     background-color: aqua;
 }
+.footer{
+    background-color: blue;
+}
