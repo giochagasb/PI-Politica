@@ -39,7 +39,7 @@
                 <li><a class="dropdown-item" href="https://pt.org.br/">PT</a></li>
                 <li><a class="dropdown-item" href="https://psol50.org.br/">SOL</a></li>
                 <li><a class="dropdown-item" href="#">PSDB</a></li>
-                <li><a class="dropdown-item" href="#">Avnate</a></li>
+                <li><a class="dropdown-item" href="#">Avante</a></li>
               </ul>
             </div>
         </nav>
