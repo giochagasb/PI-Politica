@@ -5,10 +5,15 @@ nav{
 }
 .btn-group button{
     background-color: aqua;
+    color: black;
 }
 .btn-group button:hover{
     background-color: aqua;
 }
 .footer{
-    background-color: blue;
+    background-color: lavender;
+}
+.vertical{
+    border-left: 2px solid lightgray;
+    height: 120px;
 }
