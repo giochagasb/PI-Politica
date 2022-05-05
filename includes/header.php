@@ -18,16 +18,18 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="https://www.figma.com/file/NjXOxe2egn0qcqeeBXOwki/Estrutura-de-Dados?node-id=0%3A1">Teste</a>
+                <a class="navbar-brand" href="https://www.figma.com/file/NjXOxe2egn0qcqeeBXOwki/Estrutura-de-Dados?node-id=0%3A1">Politica S&A</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    <a class="nav-link" href="#">Features</a>
-                    <a class="nav-link" href="#">Pricing</a>
-                    <a class="nav-link disabled">Disabled</a>
+                    <a class="nav-link active" aria-current="page" href="../index.php">Home</a>
+                    <a class="nav-link" href="../pages/candidatos.php">Candidatos</a>
+                    <a class="nav-link" href="../pages/cidadania.php">Cidadania</a>
+                    <a class="nav-link" href="../pages/manifestacao.php">Manifestações</a>
+                    <a class="nav-link" href="../pages/quemsomos.php">Quem Somos</a>
+                    <a class="nav-link" href="../pages/contato.php">Contato</a>
                 </div>
                 </div>
             </div>
@@ -36,16 +38,18 @@
                 Partidos
               </button>
               <ul class="dropdown-menu dropdown-menu-lg-end" aria-labelledby="dropdownMenuButton2">
+                <li><a class="dropdown-item" href="https://avante70.org.br/">Avante</a></li>
+                <li><a class="dropdown-item" href="https://www.clp.org.br/">CLP</a></li>
+                <li><a class="dropdown-item" href="https://www.democraciacrista.org.br/">DC</a></li>
+                <li><a class="dropdown-item" href="https://www.mdb.org.br/">MDB</a></li>
+                <li><a class="dropdown-item" href="http://pl22.com.br/">PL</a></li>
+                <li><a class="dropdown-item" href="https://www.poder360.com.br/">Poder 360</a></li>
+                <li><a class="dropdown-item" href="https://www.psdb.org.br/">PSDB</a></li>
+                <li><a class="dropdown-item" href="https://www.pstu.org.br/">PSTU</a></li>
                 <li><a class="dropdown-item" href="https://pt.org.br/">PT</a></li>
-                <li><a class="dropdown-item" href="https://psol50.org.br/">SOL</a></li>
-                <li><a class="dropdown-item" href="#">PSDB</a></li>
-                <li><a class="dropdown-item" href="#">Avante</a></li>
               </ul>
             </div>
         </nav>
         
         
     </header>
-
-
-    
