@@ -1,15 +1,20 @@
 nav{
     padding-left: 1vh;
     padding-right: 1vh;
-    background-color: purple;
+    background-color: #6c1108;
 }
 .btn-group button{
-    background-color: aqua;
-    color: black;
+    background-color: #B81B0D;
+    color: white;
+    border: 0vh;
+    
 }
 .btn-group button:hover{
-    background-color: aqua;
+    background-color: #B81B0D;
 }
 .footer{
-    background-color: lavender;
+    background-color: #6c1108;
+}
+.footer section{
+    color: white;
 }
