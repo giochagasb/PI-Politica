@@ -3,7 +3,7 @@
 <main class="container-fluid text-justify">
 	<div class="container contato">
     <article class="row justify-content-center">
-      <div class="col-10 col-sm-12 col-md-10 col-lg-11">
+      <div class="col-10 col-sm-12 col-md-12 col-lg-12">
 			<div class="form1">
 			<form>
   				<div class="form-group">
