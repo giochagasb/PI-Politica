@@ -6,11 +6,20 @@ nav{
 .btn-group button{
     background-color: #B81B0D;
     color: white;
-    border: 0vh;
-    
+    border: 0vh; 
 }
 .btn-group button:hover{
     background-color: #B81B0D;
+}
+.imglargura{
+    width: 25%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.noticia{
+    text-decoration: none;
+    color: black;
+    font-size: 70%;
 }
 .footer{
     background-color: #6c1108;
@@ -20,4 +29,35 @@ nav{
 }
 .lista a{
     text-decoration: none;
+}
+
+.form1{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 2%;
+    border: 1px solid black;
+    border-radius: 1px;
+}
+.contato{
+    margin-top: 5%;
+}
+label{
+    margin-top: 3%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.botão{
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-bottom: 3%;
+    width: 20%;
+}
+.btn.btn-primary.mb-2{
+    background-color: grey;
+    width: 200%;
+    border-color: grey;
 }
