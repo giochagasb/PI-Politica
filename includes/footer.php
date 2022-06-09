@@ -35,7 +35,7 @@
 
     <section class="redes row justify-content-center align-items-center">
       <div class="col-7 col-sm-7 col-md-8 col-lg-7">
-        <p class="m-0">© 2022 Gesonéis, Grupo. Todos os direitos reservados.</p>
+        <p class="m-0">© 2022 Pirulitos Radioativos. Todos os direitos reservados.</p>
       </div>
       <ul class="list-unstyled col-4 col-sm-4 col-md-2 col-lg-2 m-0">
         <div class="row">
