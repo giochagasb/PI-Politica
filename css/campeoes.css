@@ -12,13 +12,17 @@ nav{
     background-color: #B81B0D;
 }
 .imglargura{
-    width: 25%;
+    width: 30%;
     margin-bottom: 5%;
     margin-top: 5%;
 }
 .noticia{
     text-decoration: none;
     color: black;
+    font-size: 15px;
+}
+.foto{
+    text-align: center;
 }
 .footer{
     background-color: #6c1108;

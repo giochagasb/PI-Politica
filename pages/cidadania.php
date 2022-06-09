@@ -35,6 +35,7 @@
         <p>Quando nos referimos ao local onde o indivíduo nasceu ou habita, o conceito aplicado é o de cidadania formal. A cidadania formal envolve a relação de pertencimento a um Estado-Nação, como uma pessoa que possui cidadania brasileira</p>
         <p>Alguém que possui a cidadania brasileira tem que ter nascido em território brasileiro ou solicitar a sua naturalização, em caso de estrangeiros. Todavia, os estrangeiros que manifestem o desejo de adquirir a cidadania brasileira precisam obedecer a todas as etapas requeridas nesse processo. Laços de parentesco com brasileiros podem facilitar ou desburocratizar essa solicitação.</p>
         <p>Algumas pessoas possuem direito à dupla cidadania, isto é, devem exercer os direitos e obedecer aos deveres das duas nações nas quais é considerado cidadão formal.</p>
+        <p>Informação tirada de: <a href="https://educador.brasilescola.uol.com.br/estrategias-ensino/eleicoes-cidadania.htm">Mundo Educação.</a></p>
       </aside>
 
 

@@ -18,13 +18,12 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="https://www.figma.com/file/NjXOxe2egn0qcqeeBXOwki/Estrutura-de-Dados?node-id=0%3A1">Politica S&A</a>
+                <a class="navbar-brand" href="../index.php">Politica S&A</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link" aria-current="page" href="../index.php">Home</a>
                     <a class="nav-link" href="../pages/candidatos.php">Candidatos</a>
                     <a class="nav-link" href="../pages/cidadania.php">Cidadania</a>
                     <a class="nav-link" href="../pages/manifestacao.php">Manifestações</a>
