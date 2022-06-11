@@ -36,14 +36,13 @@
 
         <aside class="col-10 col-sm-10 col-md-10 col-lg-6 order-lg-1">
             <div class="foto">
-            <img src="/img/noticia2.jpg" class="imglargura rounded-circle">
+            <img src="/img/gi.jpg" class="imglargura rounded-circle">
             <h2 class="text-center mb-3 fontenegrito">Giovana Chagas</h2>
             </div>
 
-            <p>Quando nos referimos ao local onde o indivíduo nasceu ou habita, o conceito aplicado é o de cidadania formal. A cidadania formal envolve a relação de pertencimento a um Estado-Nação, como uma pessoa que possui cidadania brasileira</p>
-            <p>Alguém que possui a cidadania brasileira tem que ter nascido em território brasileiro ou solicitar a sua naturalização, em caso de estrangeiros. Todavia, os estrangeiros que manifestem o desejo de adquirir a cidadania brasileira precisam obedecer a todas as etapas requeridas nesse processo. Laços de parentesco com brasileiros podem facilitar ou desburocratizar essa solicitação.</p>
-            <p>Algumas pessoas possuem direito à dupla cidadania, isto é, devem exercer os direitos e obedecer aos deveres das duas nações nas quais é considerado cidadão formal.</p>
-            <p>Informação tirada de: <a href="https://educador.brasilescola.uol.com.br/estrategias-ensino/eleicoes-cidadania.htm">Mundo Educação.</a></p>
+            <p>Me chamo Giovana Chagas Brujas, tenho 20 anos e sou apaixonada por tecnologia desde os 15 anos. Atualmente estou no segundo semestre da Faculdade de Tecnologia de São Roque, cursando Sistemas para Internet.</p>
+            <p>Possuo o objetivo de seguir para a área de desgin ou gestão de projetos, mas no momento trabalho com a linguagem SQL utilizando a ferramenta Oracle Siebel.</p>
+            
         <ul class="list-unstyled col-4 col-sm-4 col-md-2 col-lg-2 m-0">
             <div class="row">
             <li class="col-3">
