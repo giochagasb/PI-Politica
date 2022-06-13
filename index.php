@@ -19,23 +19,26 @@
       </aside>
 
       <article class="col-10 col-sm-12 col-md-10 col-lg-4 order-lg-1">
-        <div class="titulo-noticia">
+        
           <img src="/img/noticia1.jpg" class="imglargura rounded-3">
+        <div class="titulo-noticia">
           <h2>
           <a class="noticia" href="https://www.cnnbrasil.com.br/politica/pl-apresenta-ao-tse-empresa-para-auditar-as-eleicoes-2022/">Partido de Bolsonaro apresenta ao TSE empresa para auditar as eleições de 2022</a>
           </h2>
         </div>
-        <div class="titulo-noticia">
+        
           <img src="/img/noticia2.jpg" class="imglargura rounded-3">
-            <h2>
+            <div class="titulo-noticia">
+              <h2>
               <a class="noticia" href="https://www.uol.com.br/eleicoes/2022/06/08/pesquisa-quaest-presidente-junho-lula-bolsonaro.htm">Genial/Quaest: Lula tem 52,87% dos votos válidos e venceria no 1º turno</a>
-            </h2>
+              </h2>
         </div>
-        <div class="titulo-noticia">
+        
           <img src="/img/moro.jpeg" class="imglargura rounded-3">
-          <h2>
+          <div class="titulo-noticia">
+            <h2>
             <a class="noticia" href="https://oglobo.globo.com/politica/eleicoes-2022/noticia/2022/06/tre-nega-domicilio-eleitoral-e-moro-nao-podera-ser-candidato-em-sao-paulo.ghtml">TRE nega domicílio eleitoral, e Moro não poderá ser candidato em São Paulo</a>
-          </h2>
+            </h2>
         </div>
 
       </article>
