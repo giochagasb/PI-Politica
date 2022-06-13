@@ -9,9 +9,7 @@
             <h2 class="text-center mb-3 fontenegrito">Felipe Góes</h2>
             </div>
 
-            <p>Me Chamo Felipe, tive meu contato com T.I em 2013, quando trabalhei como técnico de manutenção de computadores,
-                logo após cursei Informática para Internet na Etec-SR, onde tive minha primeira experiência com programação,
-                agora estou cursando Sistemas para Internet na Fatec-SR.</p>
+            <p>Me Chamo Felipe, tive meu contato com T.I em 2013, quando trabalhei como técnico de manutenção de computadores, logo após cursei Informática para Internet na Etec-SR, onde tive minha primeira experiência com programação, agora estou cursando Sistemas para Internet na Fatec-SR.</p>
         <ul class="list-unstyled col-4 col-sm-4 col-md-2 col-lg-2 m-0">
             <div class="row">
             <li class="col-3">
