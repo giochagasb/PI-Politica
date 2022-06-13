@@ -1,66 +1,88 @@
-nav{
-    padding-left: 1vh;
-    padding-right: 1vh;
-    background-color: #6c1108;
+nav {
+  padding-left: 1vh;
+  padding-right: 1vh;
+  background-color: #6c1108;
 }
-.btn-group button{
-    background-color: #B81B0D;
-    color: white;
-    border: 0vh; 
+.btn-group button {
+  background-color: #b81b0d;
+  color: white;
+  border: 0vh;
 }
-.btn-group button:hover{
-    background-color: #B81B0D;
+.btn-group button:hover {
+  background-color: #b81b0d;
 }
-.imglargura{
-    width: 30%;
-    margin-bottom: 5%;
-    margin-top: 5%;
+.imglargura {
+  width: 30%;
+  margin-bottom: 5%;
+  margin-top: 5%;
 }
-.noticia{
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
+.noticia {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
 }
-.foto{
-    text-align: center;
+.foto {
+  text-align: center;
 }
-.footer{
-    background-color: #6c1108;
+.footer {
+  background-color: #6c1108;
 }
-.footer section{
-    color: white;
+.footer section {
+  color: white;
 }
-.lista a{
-    text-decoration: none;
+.lista a {
+  text-decoration: none;
 }
 
-.form1{
-    margin-left: 25%;
-    margin-right: 25%;
-    width: 50%;
-    padding-right: 3%;
-    padding-left: 3%;
-    padding-bottom: 2%;
-    border: 1px solid black;
-    border-radius: 1px;
+.form1 {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  padding-right: 3%;
+  padding-left: 3%;
+  padding-bottom: 2%;
+  border: 1px solid black;
+  border-radius: 1px;
 }
-.contato{
-    margin-top: 5%;
+.contato {
+  margin-top: 5%;
 }
-label{
-    margin-top: 3%;
-    margin-bottom: 2%;
-    margin-left: 2%;
-    margin-right: 2%;
+label {
+  margin-top: 3%;
+  margin-bottom: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
 }
-.botão{
-    margin-top: 3%;
-    margin-left: 2%;
-    margin-bottom: 3%;
-    width: 20%;
+.botão {
+  margin-top: 3%;
+  margin-left: 2%;
+  margin-bottom: 3%;
+  width: 20%;
 }
-.btn.btn-primary.mb-2{
-    background-color: grey;
-    width: 200%;
-    border-color: grey;
+.btn.btn-primary.mb-2 {
+  background-color: grey;
+  width: 200%;
+  border-color: grey;
+}
+.manifestacao {
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-manifestacao {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: auto;
+  width: 70%;
+  height: auto;
+}
+.manifestacao h2 {
+  margin-top: 30px;
+}
+.manifestacao p {
+  padding: auto;
+  text-align: justify;
+  padding: 5px;
+}
+.center {
+  text-align: center;
 }
