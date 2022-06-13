@@ -86,3 +86,9 @@ label {
 .center {
   text-align: center;
 }
+
+.titulo-noticia h2 {
+  display: inline-block;
+  width: 68%;
+  font-size: 2em;
+}
