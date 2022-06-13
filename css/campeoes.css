@@ -87,8 +87,13 @@ label {
   text-align: center;
 }
 
-.titulo-noticia h2 {
+.titulo-noticia  {
+  width: 66%;
   display: inline-block;
-  width: 68%;
-  font-size: 2em;
+  vertical-align: top;
+  margin-top: 10%;
+  margin-left: 1%;
+}
+.titulo-noticia h2{
+  font-size: 15%;
 }
