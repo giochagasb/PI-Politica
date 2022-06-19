@@ -1,11 +1,11 @@
-<?php include_once('../includes/header.php'); ?>
+<?php include_once('includes/header.php'); ?>
 
 <main class="container-fluid text-justify">
     <div class="container">
         <div class="row mb-3 py-4 align-items-center justify-content-center">
         <article class="col-10 col-sm-12 col-md-10 col-lg-6 order-lg-1">
             <div class="foto">
-            <img src="/img/felipe.jpg" class="imglargura rounded-circle">
+            <img src="img/felipe.jpg" class="imglargura rounded-circle">
             <h2 class="text-center mb-3 fontenegrito">Felipe Góes</h2>
             </div>
 
@@ -33,7 +33,7 @@
 
         <aside class="col-10 col-sm-10 col-md-10 col-lg-6 order-lg-1">
             <div class="foto">
-            <img src="/img/gi.jpg" class="imglargura rounded-circle">
+            <img src="img/gi.jpg" class="imglargura rounded-circle">
             <h2 class="text-center mb-3 fontenegrito">Giovana Chagas</h2>
             </div>
 
@@ -68,4 +68,4 @@
     <!--fimcontainer3-->
 </main>
 
-<?php include_once('../includes/footer.php'); ?>
+<?php include_once('includes/footer.php'); ?>

@@ -1,4 +1,4 @@
-<?php include_once('../includes/header.php'); ?>
+<?php include_once('includes/header.php'); ?>
 
 <main class="manifestacao" class="container-fluid text-justify">
   <!--container1-->
@@ -7,7 +7,7 @@
     <div class="manifestacao"  class="col-10 col-sm-12 col-md-10 col-lg-11">
         <h2 class="text-center mb-3 fontenegrito"> Manifestações Contra o corte de verbas da educação</h2>
         <div class="center">
-          <img  class="img-manifestacao" src="../img/manifestacao1.jpg"  alt="Cartaz escrito com a frase: De tanto poupar em educação, firaremos ricos em ignorância. ">
+          <img  class="img-manifestacao" src="img/manifestacao1.jpg"  alt="Cartaz escrito com a frase: De tanto poupar em educação, firaremos ricos em ignorância. ">
         </div>
         <div class="testando">
           <p  class="fontteste">Em 2019 milhares de pessoas, em sua maioria estudantes e professores, saíram às ruas para protestar contra o anúncio da Secretaria de Educação de cortes nos orçamentos discricionários de universidades e órgãos federais em 26 estados e no DF. Escolas e universidades públicas e privadas também aderiram aos protestos. União Nacional dos Estudantes (UNE) convoca nova greve nacional no dia 30 </p>
@@ -24,7 +24,7 @@
     <div class="manifestacao" class="col-10 col-sm-12 col-md-10 col-lg-11">
         <h2 class="text-center mb-3 fontenegrito">Ato em defesa da democracia</h2>
         <div class="center">
-          <img class="img-manifestacao" src="../img/manifestacao2.jpg" alt="">
+          <img class="img-manifestacao" src="img/manifestacao2.jpg" alt="">
         <div>
         <p class="fontteste">Já no ano de 2020, manifestantes realizaram um protesto na tarde do domingo do dia 14/06/2020 na Avenida Paulista, no centro de São Paulo, para defender a democracia, contra o presidente Jair Bolsonaro (que não fez festa) e contra o racismo. A mostra começa às 14h em frente aos espaços abertos do Museu de Arte de São Paulo (MASP).</p>
         <p>O grupo seguiu pela avenida em direção ao Paraíso até se aproximar da estação Brigadeiro do metrô, onde foi proferido o discurso. O ato permaneceu pacífico até o final do protesto. Por volta das 16h, começou a dispersão. </p>
@@ -42,7 +42,7 @@
         <h2 class="text-center mb-3 fontenegrito">Manifestações contra inflação e aumentos dos preços dos alimentos
         </h2>
         <div class="center">
-          <img  class="img-manifestacao" src="../img/manifestacao3.jpg" alt="">
+          <img  class="img-manifestacao" src="img/manifestacao3.jpg" alt="">
         </div>
         <p class="fontteste">Em 2021 com o avanço da pandemia, milhares foram às ruas para protestar contra a alta inflação e o custo de vida do Brasil, o aumento dos preços dos combustíveis e a perda de empregos. O governo (Ministério da Saúde e Educação) também tem sido criticado por aumentar a fome, a miséria e a corrupção.  </p>
         <p>Milhares de pessoas saíram às ruas neste sábado (10/02) para protestar contra o presidente Jair Bolsonaro (sem partido). </p>
@@ -59,7 +59,7 @@
       <div class="manifestacao" class="col-10 col-sm-12 col-md-10 col-lg-11">
         <h2  class="text-center mb-3 fontenegrito">Manifestações no Lollapalooza contra o governo Bolsonaro</h2>
         <div class="center">
-          <img class="img-manifestacao" src="../img/manifestacao4.jpg" alt="">
+          <img class="img-manifestacao" src="img/manifestacao4.jpg" alt="">
         </div>
         <p class="fontteste">A edição deste ano do Lollapalooza virou palco para protestos e xingamentos contra o presidente Jair Bolsonaro (PL). Artistas que se apresentaram no festival, no sábado (26), empolgaram o público com manifestações contra o presidente da República, reforçando uma tendência iniciada pela cantora Pabllo Vittar, que no primeiro dia do evento ergueu uma bandeira em favor do pré-candidato à Presidência da República, o ex-presidente Lula, do PT, e agitou o público com gritos de “fora Bolsonaro”. </p>
         <p>O PL, partido do presidente Jair Bolsonaro, que tenta a reeleição, protestou contra a manifestação da cantora, e, na manhã deste domingo (27), o Tribunal Superior Eleitoral (TSE) reconheceu a reclamação, e classificou como propaganda eleitoral antecipada as manifestações de Pabllo, e também da cantora britânica Marina, na sexta-feira (25). </p>
@@ -75,4 +75,4 @@
 
 </main>
 
-<?php include_once('../includes/footer.php'); ?>
+<?php include_once('includes/footer.php'); ?>
